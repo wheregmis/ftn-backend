@@ -3,7 +3,6 @@ from fastapi import FastAPI
 import random
 import json
 
-import torch
 
 # from pytorch_chat.model import NeuralNet
 # from pytorch_chat.nltk_utils import bag_of_words, tokenize
