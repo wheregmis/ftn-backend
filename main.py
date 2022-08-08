@@ -10,8 +10,6 @@ from pytorch_chat.nltk_utils import bag_of_words, tokenize
 
 app = FastAPI()
 
-# proc file added
-
 
 @app.get("/")
 async def read_root():
